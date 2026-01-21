@@ -1,1 +1,2 @@
 This is my first entry.
+I am learning Git today!
