@@ -1,2 +1,2 @@
-This is my first entry.
+bio branch says hello.
 I am learning Git today!
