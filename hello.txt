@@ -1,2 +1,2 @@
-This is my first entry.
+Main branch says hello!
 I am learning Git today!
